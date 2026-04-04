@@ -1,0 +1,1 @@
+['bedrooms' 'bathrooms' 'sqft_living'] - rmse: 228784.92093
