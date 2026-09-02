@@ -1,0 +1,3 @@
+## TF-IDF Explicado: Como um Computador Compara Textos
+
+Esse [Jupyter Notebook](./example.ipynb) tem como objetivo mostrar na prática o funcionamento da técnica [TF-IDF](https://www.geeksforgeeks.org/machine-learning/understanding-tf-idf-term-frequency-inverse-document-frequency/), muito usada em estatística e PLN. Esse material é um complemento [https://youtu.be/veXYlDPadXQ](do vídeo) "TF-IDF Explicado: Como um Computador Compara Textos" postado no youtube, assista ele se deseja entender um pouco mais como essa técnica funciona e qual é a sua finalidade.
